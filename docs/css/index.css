@@ -1,3 +1,33 @@
+@media only screen and (max-width: 768px){
+
+  .my-text-center h1{
+    text-align: center;
+  }
+
+  .my-text-center p{
+    text-align: center;
+  }
+
+  .my-image-center img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+}
+
+@media only screen and (min-width: 768px){
+
+  .my-text-right h1{
+    text-align: right;
+  }
+
+  .my-text-right p{
+    text-align: right;
+  }
+
+}
+
 .info {
   margin-top: 0;
   margin-bottom: 0;
@@ -17,9 +47,22 @@
 }
 
 h1 {
-   text-align: center;
+  text-align: center;
 }
 
-h4 {
-   text-align: center;
+.w3c {
+  border: 0;
+  width:  88px;
+  height: 31px;
+}
+
+.footer-css {
+  background-color: #f0f0f0;
+
+}
+
+.logo {
+  border: 0;
+  width:  31px;
+  height: 31px;
 }
