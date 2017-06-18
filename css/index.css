@@ -23,3 +23,10 @@ h1 {
 h4 {
    text-align: center;
 }
+
+.w3c {
+  border: 0;
+  width:  88px;
+  height: 31px;
+
+}
