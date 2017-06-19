@@ -1,14 +1,14 @@
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 768px) {
 
-  .my-text-center h1{
+  .my-text-center h1 {
     text-align: center;
   }
 
-  .my-text-center p{
+  .my-text-center p {
     text-align: center;
   }
 
-  .my-image-center img{
+  .my-image-center img {
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -16,13 +16,13 @@
 
 }
 
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 768px) {
 
-  .my-text-right h1{
+  .my-text-right h1 {
     text-align: right;
   }
 
-  .my-text-right p{
+  .my-text-right p {
     text-align: right;
   }
 
@@ -46,7 +46,7 @@
   margin-bottom: 20px;
 }
 
-h1 {
+h2 {
   text-align: center;
 }
 
